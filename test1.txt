@@ -1,0 +1,10 @@
+ Volume in drive C is win 10
+ Volume Serial Number is D8D3-0EAE
+
+ Directory of C:\Users\H-C\Desktop\MyProject
+
+02/19/2019  11:43 PM    <DIR>          .
+02/19/2019  11:43 PM    <DIR>          ..
+02/19/2019  11:43 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  34,598,031,360 bytes free
